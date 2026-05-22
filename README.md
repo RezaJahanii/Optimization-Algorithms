@@ -10,3 +10,5 @@ Implementation of optimization frameworks.
     * BFGS
 * Linear Programming
 * Canonical Genetic Algorithm
+
+Followed by a comprehesnive survey paper.
